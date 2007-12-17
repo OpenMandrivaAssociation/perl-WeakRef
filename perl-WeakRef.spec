@@ -12,7 +12,6 @@ Group:		    Development/Perl
 URL:            http://search.cpan.org/dist/%{module}
 Source:         http://www.cpan.org/modules/by-module/WeakRef/%{module}-%{version}.tar.bz2
 Buildrequires:	perl-devel
-BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
 %description
 A patch to Perl 5.005_55 by the author implements a core API for weak
