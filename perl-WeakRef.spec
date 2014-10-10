@@ -1,7 +1,7 @@
 %define module	WeakRef
 %define name	perl-%{module}
 %define version 0.01
-%define release %mkrel 10
+%define release 11
 
 Name:		    %{name}
 Version:	    %{version}
