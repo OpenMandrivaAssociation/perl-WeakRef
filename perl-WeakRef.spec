@@ -9,7 +9,7 @@ Release:	    %{release}
 Summary:	    An API to the Perl weak references
 License:	    GPL or Artistic
 Group:		    Development/Perl
-URL:            http://search.cpan.org/dist/%{module}
+URL:            https://search.cpan.org/dist/%{module}
 Source:         http://www.cpan.org/modules/by-module/WeakRef/%{module}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 
