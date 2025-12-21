@@ -11,6 +11,7 @@ License:	    GPL or Artistic
 Group:		    Development/Perl
 URL:            https://search.cpan.org/dist/%{module}
 Source:         http://www.cpan.org/modules/by-module/WeakRef/%{module}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	perl-devel
 
 %description
